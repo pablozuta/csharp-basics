@@ -1,0 +1,14 @@
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\bin\Debug\netcoreapp3.1\operators.exe
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\bin\Debug\netcoreapp3.1\operators.deps.json
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\bin\Debug\netcoreapp3.1\operators.runtimeconfig.json
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\bin\Debug\netcoreapp3.1\operators.runtimeconfig.dev.json
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\bin\Debug\netcoreapp3.1\operators.dll
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\bin\Debug\netcoreapp3.1\operators.pdb
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\obj\Debug\netcoreapp3.1\operators.csproj.AssemblyReference.cache
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\obj\Debug\netcoreapp3.1\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\obj\Debug\netcoreapp3.1\operators.AssemblyInfoInputs.cache
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\obj\Debug\netcoreapp3.1\operators.AssemblyInfo.cs
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\obj\Debug\netcoreapp3.1\operators.csproj.CoreCompileInputs.cache
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\obj\Debug\netcoreapp3.1\operators.dll
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\obj\Debug\netcoreapp3.1\operators.pdb
+C:\Users\PabloZ\Desktop\CODE\NET\operators\operators\obj\Debug\netcoreapp3.1\operators.genruntimeconfig.cache

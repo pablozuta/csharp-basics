@@ -1,0 +1,15 @@
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\bin\Debug\net7.0\hypotenus.exe
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\bin\Debug\net7.0\hypotenus.deps.json
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\bin\Debug\net7.0\hypotenus.runtimeconfig.json
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\bin\Debug\net7.0\hypotenus.dll
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\bin\Debug\net7.0\hypotenus.pdb
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\obj\Debug\net7.0\hypotenus.csproj.AssemblyReference.cache
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\obj\Debug\net7.0\hypotenus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\obj\Debug\net7.0\hypotenus.AssemblyInfoInputs.cache
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\obj\Debug\net7.0\hypotenus.AssemblyInfo.cs
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\obj\Debug\net7.0\hypotenus.csproj.CoreCompileInputs.cache
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\obj\Debug\net7.0\hypotenus.dll
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\obj\Debug\net7.0\refint\hypotenus.dll
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\obj\Debug\net7.0\hypotenus.pdb
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\obj\Debug\net7.0\hypotenus.genruntimeconfig.cache
+C:\Users\PabloZ\Desktop\CODE\NET\CSharp\hypotenus\obj\Debug\net7.0\ref\hypotenus.dll

@@ -12,6 +12,7 @@ string coltraneDos = "Naima";
 string coltraneAlbum = "Two Directions At Once";
 Console.WriteLine(coltrane + " - " + coltraneDos);
 
+
 // Integers
 int numero = 100;
 int numeroDos = 200;
@@ -37,3 +38,12 @@ const float Pi = 3.1415927f;
 const double SpeedOfLight = 299792458.0;
 const string AppName = "My Application";
 Console.WriteLine("The MaxValue is {0}, this is the value of PI {1} and this the speed of light {2}, the name of my app is {3} ", MaxValue, Pi, SpeedOfLight, AppName);
+
+// String Methods
+System.Console.WriteLine(coltrane.ToUpper());
+System.Console.WriteLine(coltrane.ToLower());
+System.Console.WriteLine(coltrane.Replace("V", "B"));
+System.Console.WriteLine(coltrane.Replace("V", "B"));
+System.Console.WriteLine(coltrane.Insert(0, "Track Name: "));
+System.Console.WriteLine(coltrane.Length);
+System.Console.WriteLine(coltrane.Substring(0, 4));

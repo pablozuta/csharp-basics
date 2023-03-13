@@ -28,5 +28,19 @@ switch (dia)
     case "Domingo":
         Console.WriteLine("El dia es Domingo");
         break;
-   
+
+}
+
+int month = 30;
+switch (month)
+{
+    case 1:
+    case 2:
+    case 3:
+    case 4:
+        Console.WriteLine("Es verano");
+        break;
+    default:
+        Console.WriteLine("Mes No Encontrado");
+        break;
 }

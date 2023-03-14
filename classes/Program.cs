@@ -20,6 +20,19 @@ namespace classes
             public int age;
         }
 
+        // ENUMS
+        // An enum is a special value type that lets you specify a group of named numeric constants.
+        enum EmpType
+        {
+            Manager,
+            Grunt,
+            Contractor,
+            VicePresident
+        }
+
+        enum BorderSide {Left =10, Right, Top, Bottom}
+
+
         static void Main(string[] args)
         {
             // aca se crea un objeto de esa clase
@@ -43,6 +56,17 @@ namespace classes
             personUno.age= 50;
             System.Console.WriteLine(personUno.name);
             System.Console.WriteLine(personUno.age);
+
+            // Acceder a enums
+            System.Console.WriteLine(BorderSide.Left); // devuelve "Left"
+            System.Console.WriteLine((int)BorderSide.Left); // devuelve 10
+
+            System.Console.WriteLine((int)EmpType.Manager); // devuelve 0
+            System.Console.WriteLine(EmpType.Grunt); // devuelve "Grunt"
+
+
+
+           
         }
     }
 }

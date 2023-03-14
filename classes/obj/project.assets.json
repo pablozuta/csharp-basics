@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PabloZ\\Desktop\\CODE\\NET\\classes\\classes\\classes.csproj",
+      "projectUniqueName": "C:\\Users\\PabloZ\\Desktop\\CODE\\NET\\CSharp\\classes\\classes.csproj",
       "projectName": "classes",
-      "projectPath": "C:\\Users\\PabloZ\\Desktop\\CODE\\NET\\classes\\classes\\classes.csproj",
+      "projectPath": "C:\\Users\\PabloZ\\Desktop\\CODE\\NET\\CSharp\\classes\\classes.csproj",
       "packagesPath": "C:\\Users\\PabloZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PabloZ\\Desktop\\CODE\\NET\\classes\\classes\\obj\\",
+      "outputPath": "C:\\Users\\PabloZ\\Desktop\\CODE\\NET\\CSharp\\classes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PabloZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
